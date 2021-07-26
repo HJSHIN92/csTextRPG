@@ -1,0 +1,12 @@
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/bin/Debug/netcoreapp3.1/TextRPG_cs.deps.json
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/bin/Debug/netcoreapp3.1/TextRPG_cs.runtimeconfig.json
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/bin/Debug/netcoreapp3.1/TextRPG_cs.runtimeconfig.dev.json
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/bin/Debug/netcoreapp3.1/TextRPG_cs.dll
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/bin/Debug/netcoreapp3.1/TextRPG_cs.pdb
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.csproj.AssemblyReference.cache
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.AssemblyInfoInputs.cache
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.AssemblyInfo.cs
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.csproj.CoreCompileInputs.cache
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.dll
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.pdb
+/Users/hj/projects/TextRPG_cs/TextRPG_cs/obj/Debug/netcoreapp3.1/TextRPG_cs.genruntimeconfig.cache
