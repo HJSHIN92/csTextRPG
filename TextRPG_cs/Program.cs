@@ -1,10 +1,39 @@
 ﻿using System;
 
+/*
+ 초반 프로그램이의 전부는
+1. 객체(클래스) 선언
+2. 함수의 선언
+3. 함수의 분기
+ */
+
 class Player
 {
     int AT = 10;
     int HP = 50;
     int MAXHP = 100;
+
+    public void PrintHP()
+    {
+        Console.Write("현재 플레이어의 HP는");
+        Console.Write(HP);
+        Console.Write(" / ");
+        Console.Write(MAXHP);
+        Console.Write("입니다");
+    }
+
+    public void MaxHeal(/* Player this*/)
+    {
+        if(HP >= MAXHP)
+        {
+            Console.WriteLine("체력이 모두 회복되어있습니다");
+            Console.ReadKey();
+        }else
+        {
+        this.HP = MAXHP;
+        PrintHP();
+        }
+    }
 
     public void StatusRender()
     {
@@ -18,6 +47,7 @@ class Player
         Console.WriteLine(MAXHP);
         Console.WriteLine("--------------------------");
     }
+
 
 }
 
@@ -86,6 +116,8 @@ namespace TextRPG_cs
                 switch (Console.ReadKey().Key)
                 {
                     case ConsoleKey.D1:
+                        _player.MaxHeal();
+                        Console.ReadKey();
                         break;
                     case ConsoleKey.D2:
                         break;

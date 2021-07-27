@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{54BDE947-7041-4133-B805-3624DAE1468E}|Default">
   <MonoDevelop.Ide.ItemProperties.TextRPG__cs PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextRPG_cs/Program.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="TextRPG_cs/Program.cs" Line="6" Column="12" />
+      <File FileName="TextRPG_cs/Program.cs" Line="116" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
