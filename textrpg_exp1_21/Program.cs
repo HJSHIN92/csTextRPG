@@ -47,7 +47,7 @@ class FightUnit
         //{
         //    Console.WriteLine("플레이어가 패망했습니다");
         //    return;
-            //isDead = true;
+        //isDead = true;
         //}
 
 
@@ -78,14 +78,15 @@ class Player : FightUnit
 
     public void MaxHeal(/* Player this*/)
     {
-        if(HP >= MAXHP)
+        if (HP >= MAXHP)
         {
             Console.WriteLine("체력이 모두 회복되어있습니다");
             Console.ReadKey();
-        }else
+        }
+        else
         {
-        this.HP = MAXHP;
-        PrintHP();
+            this.HP = MAXHP;
+            PrintHP();
         }
     }
 
@@ -142,7 +143,7 @@ namespace TextRPG_cs
                 default:
                     Console.WriteLine("잘못된 선택입니다");
                     return STARTSELECT.SELECTNONE;
-                
+
             }
         }
 
@@ -174,15 +175,15 @@ namespace TextRPG_cs
         static void Battle(Player _player)
         {
             Console.WriteLine("배틀존에 들어왔습니다");
-            
+
 
             Monster Newmonster = new Monster("오크");
-// 숙제
-// 1. 둘중 누가 죽을 때까지 싸우기
-// 1-1. 플레이어한대 몬스터한ㄷ
-// 2. 한쪽이 주그면(나간다) 마을로 자동이송
-// 2-1. 그냥나간다
-// 2-2. 마을로 나간다
+            // 숙제
+            // 1. 둘중 누가 죽을 때까지 싸우기
+            // 1-1. 플레이어한대 몬스터한ㄷ
+            // 2. 한쪽이 주그면(나간다) 마을로 자동이송
+            // 2-1. 그냥나간다
+            // 2-2. 마을로 나간다
             while (true)
             {
                 Console.Clear();
