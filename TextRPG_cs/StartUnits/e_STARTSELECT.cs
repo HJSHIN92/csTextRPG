@@ -1,0 +1,8 @@
+﻿using System;
+
+enum STARTSELECT
+{
+    SELECTTOWN,
+    SELECTBATTLE,
+    SELECTNONE
+}

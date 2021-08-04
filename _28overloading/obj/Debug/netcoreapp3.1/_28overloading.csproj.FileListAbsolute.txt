@@ -1,0 +1,12 @@
+/Users/hj/projects/TextRPG_cs/_28overloading/bin/Debug/netcoreapp3.1/_28overloading.deps.json
+/Users/hj/projects/TextRPG_cs/_28overloading/bin/Debug/netcoreapp3.1/_28overloading.runtimeconfig.json
+/Users/hj/projects/TextRPG_cs/_28overloading/bin/Debug/netcoreapp3.1/_28overloading.runtimeconfig.dev.json
+/Users/hj/projects/TextRPG_cs/_28overloading/bin/Debug/netcoreapp3.1/_28overloading.dll
+/Users/hj/projects/TextRPG_cs/_28overloading/bin/Debug/netcoreapp3.1/_28overloading.pdb
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.csproj.AssemblyReference.cache
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.AssemblyInfoInputs.cache
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.AssemblyInfo.cs
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.csproj.CoreCompileInputs.cache
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.dll
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.pdb
+/Users/hj/projects/TextRPG_cs/_28overloading/obj/Debug/netcoreapp3.1/_28overloading.genruntimeconfig.cache

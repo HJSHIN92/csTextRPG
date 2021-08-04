@@ -1,0 +1,11 @@
+/Users/hj/projects/TextRPG_cs/overriding/bin/Debug/netcoreapp3.1/overriding.deps.json
+/Users/hj/projects/TextRPG_cs/overriding/bin/Debug/netcoreapp3.1/overriding.runtimeconfig.json
+/Users/hj/projects/TextRPG_cs/overriding/bin/Debug/netcoreapp3.1/overriding.runtimeconfig.dev.json
+/Users/hj/projects/TextRPG_cs/overriding/bin/Debug/netcoreapp3.1/overriding.dll
+/Users/hj/projects/TextRPG_cs/overriding/bin/Debug/netcoreapp3.1/overriding.pdb
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.AssemblyInfoInputs.cache
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.AssemblyInfo.cs
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.csproj.CoreCompileInputs.cache
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.dll
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.pdb
+/Users/hj/projects/TextRPG_cs/overriding/obj/Debug/netcoreapp3.1/overriding.genruntimeconfig.cache

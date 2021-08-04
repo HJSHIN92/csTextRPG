@@ -5,4 +5,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Maps\" />
+    <None Remove="FightUnit\" />
+    <None Remove="StartUnits\" />
+    <None Remove="Main\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Maps\" />
+    <Folder Include="FightUnit\" />
+    <Folder Include="StartUnits\" />
+    <Folder Include="Main\" />
+  </ItemGroup>
 </Project>

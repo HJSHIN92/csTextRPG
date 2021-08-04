@@ -45,7 +45,7 @@ class FightUnit
 
         //if (_unitA.HP <= 0)
         //{
-        //    Console.WriteLine("플레이어가 패망했습니다");
+        //    Console.WriteLine("플레이어가 패	했습니다");
         //    return;
         //isDead = true;
         //}
@@ -205,7 +205,7 @@ namespace TextRPG_cs
         }
 
         // 메인함
-        static void Main(string[] args)
+            static void Main(string[] args)
         {
             Player newPlayer = new Player();
 

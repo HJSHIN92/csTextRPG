@@ -1,0 +1,12 @@
+/Users/hj/projects/TextRPG_cs/_23string/bin/Debug/netcoreapp3.1/_23string.deps.json
+/Users/hj/projects/TextRPG_cs/_23string/bin/Debug/netcoreapp3.1/_23string.runtimeconfig.json
+/Users/hj/projects/TextRPG_cs/_23string/bin/Debug/netcoreapp3.1/_23string.runtimeconfig.dev.json
+/Users/hj/projects/TextRPG_cs/_23string/bin/Debug/netcoreapp3.1/_23string.dll
+/Users/hj/projects/TextRPG_cs/_23string/bin/Debug/netcoreapp3.1/_23string.pdb
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.csproj.AssemblyReference.cache
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.AssemblyInfoInputs.cache
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.AssemblyInfo.cs
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.csproj.CoreCompileInputs.cache
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.dll
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.pdb
+/Users/hj/projects/TextRPG_cs/_23string/obj/Debug/netcoreapp3.1/_23string.genruntimeconfig.cache

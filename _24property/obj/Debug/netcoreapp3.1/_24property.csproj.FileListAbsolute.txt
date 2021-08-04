@@ -1,0 +1,12 @@
+/Users/hj/projects/TextRPG_cs/_24property/bin/Debug/netcoreapp3.1/_24property.deps.json
+/Users/hj/projects/TextRPG_cs/_24property/bin/Debug/netcoreapp3.1/_24property.runtimeconfig.json
+/Users/hj/projects/TextRPG_cs/_24property/bin/Debug/netcoreapp3.1/_24property.runtimeconfig.dev.json
+/Users/hj/projects/TextRPG_cs/_24property/bin/Debug/netcoreapp3.1/_24property.dll
+/Users/hj/projects/TextRPG_cs/_24property/bin/Debug/netcoreapp3.1/_24property.pdb
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.csproj.AssemblyReference.cache
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.AssemblyInfoInputs.cache
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.AssemblyInfo.cs
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.csproj.CoreCompileInputs.cache
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.dll
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.pdb
+/Users/hj/projects/TextRPG_cs/_24property/obj/Debug/netcoreapp3.1/_24property.genruntimeconfig.cache
