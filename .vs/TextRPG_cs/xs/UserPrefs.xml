@@ -2,16 +2,10 @@
   <MonoDevelop.Ide.ItemProperties.textrpg__exp1__21 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TextRPG__cs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__30Interface FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextRPG_cs/StartUnits/Start.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_31Array/Program.cs">
     <Files>
-      <File FileName="_28overloading/Program.cs" Line="76" Column="1" />
-      <File FileName="overriding/Program.cs" />
-      <File FileName="_30Interface/Program.cs" />
-      <File FileName="_31Array/Program.cs" />
-      <File FileName="TextRPG_cs/Main/Main.cs" Line="21" Column="48" />
-      <File FileName="TextRPG_cs/StartUnits/Start.cs" Line="5" Column="11" />
-      <File FileName="TextRPG_cs/StartUnits/e_STARTSELECT.cs" Line="1" Column="1" />
-      <File FileName="TextRPG_cs/Maps/Town.cs" Line="1" Column="1" />
+      <File FileName="TextRPG_cs/StartUnits/Start.cs" Line="28" Column="2" />
+      <File FileName="_31Array/Program.cs" Line="67" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,16 +17,16 @@
             <Node name="_28overloading" expanded="True" />
             <Node name="_28partitial" expanded="True" />
             <Node name="_30Interface" expanded="True" />
-            <Node name="_31Array" expanded="True" />
+            <Node name="_31Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="ClassConstructer" expanded="True" />
             <Node name="overriding" expanded="True" />
             <Node name="TextRPG_cs" expanded="True">
               <Node name="FightUnit" expanded="True" />
               <Node name="Main" expanded="True" />
               <Node name="Maps" expanded="True" />
-              <Node name="StartUnits" expanded="True">
-                <Node name="Start.cs" selected="True" />
-              </Node>
+              <Node name="StartUnits" expanded="True" />
             </Node>
             <Node name="textrpg_exp1_21" expanded="True" />
           </Node>

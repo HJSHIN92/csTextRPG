@@ -60,7 +60,7 @@ namespace _31Array
 
             //int Value = ArrInt[0];
             //Console.WriteLine(ArrInt[0]);
-
+            // wer
         }
     }
 }
